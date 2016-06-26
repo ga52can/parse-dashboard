@@ -1,5 +1,21 @@
 {
-  "apps": [
+"apps": [
+  {
+    "serverURL": "https://ecorescue.herokuapp.com/parse",
+    "appId": "sfFzOxotpsdOHWJE3nMmD0erLgFoecttKvC9CzIM",
+    "masterKey": "sfFzOxotpsdOHWJE3nMmD0erLgFoecttKvC9CzIM",
+    "appName": "EcoRescue Dashboard"
+  }
+],
 
-  ]
+"users": [
+  {
+    "user":"mkleehaus",
+    "pass":"Black#Bird2015"
+  },
+  {
+    "user":"cerl",
+    "pass":"Red#Bird2015"
+  }
+]
 }
